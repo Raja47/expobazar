@@ -1,0 +1,2 @@
+[05-Jun-2018 13:39:01 Europe/London] PHP Fatal error:  Call to a member function allCategories() on a non-object in /home/expobaza/public_html/application/controllers/User.php on line 24
+[06-Jun-2018 09:01:58 Europe/London] PHP Parse error:  syntax error, unexpected '$prd' (T_VARIABLE), expecting ',' or ';' in /home/expobaza/public_html/application/views/user/prd-details.php on line 56
